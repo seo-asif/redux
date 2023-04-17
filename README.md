@@ -1,4 +1,4 @@
-Redux Road
+Redux Road (Codecademy project)
 
 In this project I will try to build an adventure game using reducers, state, and actions.
 The state will represent, well, the state of the game. It contains the player’s inventory, distance travelled, and time on the road.
